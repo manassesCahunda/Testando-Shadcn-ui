@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Confira este [vídeo incrível sobre o projeto](https://github.com/manassesCahunda/Testando-Shadcn-ui/blob/main/bandicam%202024-08-11%2019-22-23-043.mp4)!
 
+[vídeo incrível sobre o projeto](https://github.com/manassesCahunda/Testando-Shadcn-ui/blob/main/Captura%20de%20ecr%C3%A3%202024-08-11%20195317.png)!
+
+[vídeo incrível sobre o projeto](https://github.com/manassesCahunda/Testando-Shadcn-ui/blob/main/Captura%20de%20ecr%C3%A3%202024-08-11%20195332.png)!
+
+[vídeo incrível sobre o projeto](https://github.com/manassesCahunda/Testando-Shadcn-ui/blob/main/Captura%20de%20ecr%C3%A3%202024-08-11%20195343.png)!
+
 ## Getting Started
 
 First, run the development server:
